@@ -1,3 +1,6 @@
+Karel Fíla 
+
+
 # MatrixOperations
 ## TODO
 - [ ] Finish implementing the `MatrixtTest` test class.
